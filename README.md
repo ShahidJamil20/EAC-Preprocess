@@ -1,4 +1,4 @@
-# EAC-Agent
+# EAC-Agent (Pre-Process)
 This project preprocesses raw IEMOCAP and MELD datasets and generates
 serialized multimodal feature files (`.pkl`) using:
 
